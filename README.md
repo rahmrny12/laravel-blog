@@ -13,3 +13,8 @@
 Username : rahmrny12
 <br>
 Password : ruwet123
+
+#### User biasa :
+Username : hamzahhaz
+<br>
+Password : ruwet123
