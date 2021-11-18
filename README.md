@@ -8,3 +8,7 @@
 > Untuk melakukan migrasi sekaligus seeding gunakan perintah
 > ```php artisan migrate --seed```
 
+### Login
+#### Admin :
+Username : rahmrny12
+Password : ruwet123
