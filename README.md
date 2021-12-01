@@ -10,6 +10,8 @@
 
 ### Login
 #### Admin :
+> Hanya admin yang dapat membuat post, membuka dashboard, dan melihat list postnya sendiri
+
 Username : rahmatprayogo12@gmail.com
 <br>
 Password : ruwet123
