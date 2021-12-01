@@ -17,6 +17,6 @@ Email : rahmatprayogo12@gmail.com
 Password : ruwet123
 
 #### User biasa :
-Email : hamzahhamah@gmail.com
+Email : hamzahhamah066@gmail.com
 <br>
 Password : ruwet123
