@@ -10,11 +10,11 @@
 
 ### Login
 #### Admin :
-Username : rahmrny12
+Username : rahmatprayogo12@gmail.com
 <br>
 Password : ruwet123
 
 #### User biasa :
-Username : hamzahhaz
+Username : hamzahhamah@gmail.com
 <br>
 Password : ruwet123
