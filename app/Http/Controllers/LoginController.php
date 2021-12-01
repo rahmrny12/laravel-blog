@@ -24,10 +24,14 @@ class LoginController extends Controller
 
         if (Auth::attempt($credentials)) {
             $request->session()->regenerate();
-            return redirect()->intended('/');
+            if (auth()->user()->is_admin == 1) {
+                return redirect()->intended('dashboard');
+            } else {
+                return redirect()->intended('/');
+            }
+            
+            return back()->with('loginError', 'Login failed! Please try again.');
         }
-
-        return back()->with('loginError', 'Login failed! Please try again.');
     }
 
     public function logout(Request $request)
