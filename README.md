@@ -12,11 +12,11 @@
 #### Admin :
 > Hanya admin yang dapat membuat post, membuka dashboard, dan melihat list postnya sendiri
 
-Username : rahmatprayogo12@gmail.com
+Email : rahmatprayogo12@gmail.com
 <br>
 Password : ruwet123
 
 #### User biasa :
-Username : hamzahhamah@gmail.com
+Email : hamzahhamah@gmail.com
 <br>
 Password : ruwet123
